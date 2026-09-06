@@ -1,0 +1,6 @@
+{
+  "name": "EduSponsor",
+  "description": "Verified student scholarship & tuition sponsorship platform with direct-to-school bursar escrow, CSR programmatic rules engine, and PII-screened messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
